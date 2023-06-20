@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-h2 {
+  @apply text-[40px] md:text-[52px] text-white font-BiennaleMedium leading-[1.1] mb-5;
+}
+
+.custom-p {
+  @apply text-lg font-CodecCold text-neutralgrey2100;
+}
+
+.custom-button {
+  @apply w-[200px] xs:w-[170px] h-[50px] font-BiennaleMedium text-[17px] transition duration-300 ease-in rounded-full;
+}
