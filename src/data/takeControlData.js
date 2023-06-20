@@ -9,31 +9,31 @@ export const takeControlData = [
   {
     image: GraphicLeverage,
     text: "Leverage up to 30x",
-    blur: "linear-gradient(45deg, var(--gradient-red-color2), var(--gradient-red-color1))",
+    blur: "linear-gradient(45deg, #ff5555, #fd0f82",
   },
   {
     image: GraphicPools,
     text: "Low-risk liquidity pools",
-    blur: "linear-gradient(45deg, var(--gradient-purple-color1), var(--gradient-purple-color2))",
+    blur: "linear-gradient(45deg, #9756ff, #d834ff",
   },
   {
     image: GraphicTransactions,
     text: "Super cheap transactions",
-    blur: "linear-gradient(45deg, var(--gradient-purple-color1), var(--primary-green-100))",
+    blur: "linear-gradient(45deg, #9756ff, #4ee39d",
   },
   {
     image: GraphicExecution,
     text: "Utilizes the most liquid AMMs",
-    blur: "linear-gradient(45deg, var(--gradient-brand-color2), var(--gradient-purple-color2))",
+    blur: "linear-gradient(45deg, #00b3ec, #d834ff",
   },
   {
     image: GraphicFees,
     text: "Permissionless trading",
-    blur: "linear-gradient(45deg, var(--gradient-red-color1), var(--gradient-red-color2))",
+    blur: "linear-gradient(45deg, #fd0f82, #ff5555",
   },
   {
     image: GraphicOracle,
     text: "Fully composable",
-    blur: "linear-gradient(45deg, var(--gradient-purple-color1), var(--gradient-purple-color2))",
+    blur: "linear-gradient(45deg, #9756ff, #d834ff",
   },
 ];
